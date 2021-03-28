@@ -9,14 +9,14 @@ At the moment i enjoy FiveM Scripting (GTA V RolePlay PlatForm)
 Which i'll be releasing scripts from now on! 🥰
 And i'll think about releasing my own FrameWork to it👺
 
-Skills:  LUA / C++ / JS / HTML / CSS / Game Hacking
+Skills:  LUA / C++ / JS / HTML / CSS / Game Hacking / Java / HeidiSQL
 
 - 🔭 I’m currently working on My FiveM FrameWork 
 - 🌱 I’m currently learning Everything there is always room for learning!😊 
 - 👯 I’m looking to collaborate on Open Sources 
 - 💬 Ask me about Anything you wish!🥺 
 - 📫 How to reach me: Discord: ZyoIsACuck#1032 
-- ⚡ Fun fact: Zu Krass $$ 
+- ⚡ Beste: Zu Krass $$ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zy0exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/HlfPxvfTpRiafAknxIXfXw)  
