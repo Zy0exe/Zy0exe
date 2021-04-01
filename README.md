@@ -15,7 +15,7 @@ Skills:  LUA / C++ / JS / HTML / CSS / Game Hacking / Java / HeidiSQL
 - 🌱 I’m currently learning Everything there is always room for learning!😊 
 - 👯 I’m looking to collaborate on Open Sources 
 - 💬 Ask me about Anything you wish!🥺 
-- 📫 How to reach me: Discord: ZyoIsACuck#1032 
+- 📫 How to reach me: Discord: Zyo#1032
 - ⚡ Beste: Zu Krass $$ 
 
 
