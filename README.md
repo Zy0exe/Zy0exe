@@ -1,22 +1,21 @@
-### Hi there 👋, my name is Zy0exe
+### Hi there 👋, my name is Zyo | 0x0
 #### Developer || Reverse Engineer || Hacktivist
 ![Developer || Reverse Engineer || Hacktivist](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 Hey 👋 I'm Zy0 from the unknown lands! ⛰️
-I enjoy Reverse Engineering CSGO a lot mainly because i have no life 😪
+I enjoy Reverse Engineering pretty much i anything i can get my hands on.
 
-At the moment i enjoy FiveM Scripting (GTA V RolePlay PlatForm)
+At the moment i enjoy FiveM Scripting
 Which i'll be releasing scripts from now on! 🥰
 And i'll think about releasing my own FrameWork to it👺
 
-Skills:  LUA / C++ / JS / HTML / CSS / Game Hacking / Java / HeidiSQL
+Skills:  LUA / Python / C++ / JS / HTML / CSS / Game Hacking / Java / HeidiSQL
 
-- 🔭 I’m currently working on My FiveM FrameWork 
-- 🌱 I’m currently learning Everything there is always room for learning!😊 
+- 🔭 I’m currently working on anything i get paid to do 👺
+- 🌱 I’m currently learning how to stop being a dickhead online!🥰
 - 👯 I’m looking to collaborate on Open Sources 
 - 💬 Ask me about Anything you wish!🥺 
-- 📫 How to reach me: Discord: Zyo#1032
-- ⚡ Beste: Zu Krass $$ 
+- 📫 How to reach me: Discord: _zeroxzero
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zy0exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/HlfPxvfTpRiafAknxIXfXw)  
